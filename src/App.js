@@ -101,6 +101,7 @@ function App() {
               <option value="mixtral:8x7b-instruct-v0.1-q6_K">mixtral:8x7b-instruct-v0.1-q6_K</option>
               <option value="mixtral:8x22b-instruct-v0.1-q6_K">mixtral:8x22b-instruct-v0.1-q6_K</option>
               <option value="qwen:72b-chat-v1.5-q6_K">qwen:72b-chat-v1.5-q6_K</option>
+              <option value="llama3.1:8b-instruct-q6_K">llama3.1:8b-instruct-q6_K</option>
             </select>
           </h2>
           <div className="header-icons">
